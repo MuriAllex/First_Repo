@@ -176,7 +176,7 @@ pyrightconfig.json
 # End of https://www.toptal.com/developers/gitignore/api/python
 
 
-Private_Folder
+Private_Folder/
 Notite
 Videos
 Private_file2.txt
